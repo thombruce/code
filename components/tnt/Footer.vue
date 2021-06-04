@@ -12,6 +12,7 @@ footer
 export default {
   data () {
     return {
+      title: this.$nuxt.$options.head.title,
       social: [
         {
           icon: 'facebook',
