@@ -20,7 +20,7 @@ module.exports = {
     // To extend the color palette (though this can also be done by adding additional colors above)
     extend: {
       colors: {
-        primary: colors.rose
+        primary: { ...colors.rose, ...{ DEFAULT: colors.rose['500'] } }
       }
     }
   }
