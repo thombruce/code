@@ -5,7 +5,12 @@ footer
       li(v-for='(item, i) in social' :key='i')
         a(:href='item.to' target='_blank')
           TntSimpleIcon(:icon='item.icon')
-  .copyright &copy; Thom Bruce 2021 - {{ new Date().getFullYear() }}
+  .copyright
+    | &copy;
+    |
+    a(href='https://thombruce.com/') Thom Bruce
+    |
+    | 2021 - {{ new Date().getFullYear() }}
 </template>
 
 <script>
@@ -37,7 +42,7 @@ export default {
 
 <style lang='postcss' scoped>
 footer {
-  @apply py-3;
+  @apply mt-5 py-5 bg-gray-100 dark:bg-gray-700;
   & .social {
     @apply text-3xl;
     & ul {
@@ -48,7 +53,10 @@ footer {
     }    
   }
   & .copyright {
-    @apply text-center text-sm text-gray-400 dark:text-gray-500;
+    @apply pt-4 text-center text-sm text-gray-400 dark:text-gray-500;
+    & a {
+      @apply text-gray-600 hover:text-gray-800 dark:text-gray-300 dark:hover:text-gray-400;
+    }
   }
 }
 </style>
