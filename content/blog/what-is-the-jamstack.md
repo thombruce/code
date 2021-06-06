@@ -22,7 +22,7 @@ And finally, there's the A in JAM - APIs. Because you don't need to run _"baby's
 
 I'll discuss further concepts in later posts, like Static Site Generators are a pretty important concept; instead of writing page after page of HTML markup, an SSG will build the markup for your pages for you from templates and components that you customise. An SSG does a lot of the stuff that a WordPress server would to render a page, but whereas WordPress would go through this process on every single user request, an SSG only does this once. You build once and deploy to a serverless architecture, serving up what's known as a _"static site"_. These static sites become dynamic by use of JavaScript and APIs, but that's... precisely the same way that all websites feel modern and dynamic. Can you imagine if Facebook loaded a new page every time you wanted to leave a "like" on something? That's interactivity without JavaScript and APIs; it's page-loads, yeuch!
 
-A quick and easy way to get started with Static Site Generators, if you're interested, is [Jekyll](https://jekyllrb.com/). I no longer us this myself (this blog uses [Nuxt.js](https://nuxtjs.org/)), but I do think Jekyll wins out for ease-of-use.
+A quick and easy way to get started with Static Site Generators, if you're interested, is [Jekyll](https://jekyllrb.com/). I no longer use this myself (this blog uses [Nuxt.js](https://nuxtjs.org/)), but I do think Jekyll wins out for ease-of-use.
 
 ## What is a Jameater?
 
