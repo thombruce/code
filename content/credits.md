@@ -21,12 +21,14 @@ container: text-center
 
 ## Fonts
 
-<a href='https://www.dafont.com/all-things-must-pass.font' class='font-poster'>ALL THINGS MUST PASS</a> by [Imagex Fonts](http://www.imagex-fonts.com/)
+<a href='https://www.dafont.com/all-things-must-pass.font' class='font-poster'>ALL THINGS MUST PASS</a>
+<br/>
+by [Imagex Fonts](http://www.imagex-fonts.com/)
 
 <br/>
 
 <a href='https://fontawesome.com/'><tnt-simple-icon icon='fontawesome'></tnt-simple-icon> Font Awesome</a>
-&nbsp;&nbsp;&nbsp;
+<br class='inline md:hidden'/><span class='hidden md:inline'>&nbsp;&nbsp;&nbsp;</span>
 <a href='https://simpleicons.org/'><tnt-simple-icon icon='simpleicons'></tnt-simple-icon> Simple Icons</a>
 
 <br/>
