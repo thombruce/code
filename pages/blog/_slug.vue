@@ -24,6 +24,15 @@ export default {
       })
 
     return { slug, article }
+  },
+  head () {
+    return {
+      meta: [
+        { hid: 'og:title', property: 'og:title', content: `${this.article.title} | Jameater` },
+        { hid: 'og:type', property: 'og:type', content: 'article' },
+        { hid: 'og:url', property: 'og:url', content: `https://thombruce.com${this.$route.fullPath}` },
+      ]
+    }
   }
 }
 </script>

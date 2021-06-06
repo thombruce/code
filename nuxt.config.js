@@ -8,7 +8,12 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' }
+      { hid: 'description', name: 'description', content: 'My personal Jamstack blog.' },
+      { hid: 'og:site_name', property: 'og:site_name', content: 'Jameater' },
+      { hid: 'og:title', property: 'og:title', content: 'Jameater' },
+      { hid: 'og:type', property: 'og:type', content: 'website' },
+      { hid: 'og:url', property: 'og:url', content: 'https://jam.thombruce.com/' },
+      { hid: 'og:image', property: 'og:image', content: 'https://jam.thombruce.com/strawberries.jpg' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }

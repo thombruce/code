@@ -1,4 +1,6 @@
-# jameater
+# Jameater
+
+My personal Jamstack blog.
 
 ## Build Setup
 
