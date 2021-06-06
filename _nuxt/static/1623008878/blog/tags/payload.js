@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/tags", {data:[{slug:"tags",article:[{slug:"java-script",title:"JavaScript"},{slug:"api",title:"API"},{slug:"markup",title:"Markup"}]}],fetch:{},mutations:[]});
