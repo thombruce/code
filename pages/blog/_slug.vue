@@ -19,7 +19,7 @@ export default {
     const article = await $content('blog', slug)
       .fetch()
       .catch(async () => {
-        const terms = await store.dispatch('blog/taxonomies/all', { taxonomy: slug })
+        const terms = await store.dispatch('taxonomies/all', { property: 'blog', taxonomy: slug })
         return terms
       })
 
