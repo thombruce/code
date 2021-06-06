@@ -1,5 +1,8 @@
 <template lang='pug'>
 article
+  header
+    h1 {{ term.title }}
+
   div
     article(v-for='article in articles')
       header
@@ -8,21 +11,21 @@ article
         time(:datetime='article.createdAt') {{ article.createdAt }}
       div
         p {{ article.description }}
-  footer.hidden
-    NuxtLink(v-for='page in pages' :key='page.slug' :to='page') {{ page.title }}
 </template>
 
 <script>
 export default {
-  async asyncData({ $content }) {
-    const pages = await $content()
-      .fetch()
+  async asyncData({ $content, store, params }) {
+    const taxonomy = params.taxonomy
+
+    const term = await store.dispatch('blog/taxonomies/find', { taxonomy, slug: params.term })
 
     const articles = await $content('blog')
+      .where({ [taxonomy]: { $contains: term.title } })
       .sortBy('createdAt', 'desc')
       .fetch()
 
-    return { pages, articles }
+    return { term, articles }
   }
 }
 </script>
