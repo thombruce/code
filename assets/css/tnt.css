@@ -1,0 +1,6 @@
+@import '@thombruce/tnt';
+
+@font-face {
+  font-family: 'All Things Must Pass';
+  src: url('~assets/fonts/All-Things-Must-Pass.ttf') format('truetype');
+}

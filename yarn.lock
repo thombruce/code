@@ -1483,7 +1483,7 @@
 
 "@thombruce/tnt@https://github.com/thombruce/tnt":
   version "0.1.0"
-  resolved "https://github.com/thombruce/tnt#6f70bafe54db22eda4bee2df86249f3f212892fc"
+  resolved "https://github.com/thombruce/tnt#9f5da72173401c6772edfbf118c42d854debd796"
   dependencies:
     "@fortawesome/free-solid-svg-icons" "^5.15.3"
     "@nuxtjs/color-mode" "^2.0.9"
@@ -8870,9 +8870,9 @@ signal-exit@^3.0.2, signal-exit@^3.0.3:
   integrity sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA==
 
 simple-icons@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-5.0.0.tgz#c47d06ee4efd62cc610565678bfbcac97bebf987"
-  integrity sha512-GO1/oSE8MRAoxd+S8L9JHh48lJ+C2a5Uvq2+lF2bImFG/7joAEA7MfzSiTTcyAW6gVTEyIqe6OiGOQIHwdq3ew==
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-5.1.0.tgz#2bcf4e847fe95d61d5cffe456a2d9a66954220cf"
+  integrity sha512-eYaG95mbAtLCLdIhlXlTsFM+AwVJEwkCDHDGJIYxv8MMgdVcbKH0EligeqKcrbtGlDg06rGtJ5rL22mj0p3wtw==
 
 simple-swizzle@^0.2.2:
   version "0.2.2"

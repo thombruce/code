@@ -20,7 +20,13 @@ module.exports = {
     // To extend the color palette (though this can also be done by adding additional colors above)
     extend: {
       colors: {
-        primary: { ...colors.rose, ...{ DEFAULT: colors.rose['500'] } }
+        primary: { ...colors.rose, ...{ DEFAULT: colors.rose['500'] } },
+        dark: { ...colors.coolGray, ...{ DEFAULT: colors.coolGray['900'] } },
+        light: { ...colors.yellow, ...{ DEFAULT: colors.yellow['50'] } }
+      },
+      // To add fonts
+      fontFamily: {
+        poster: ['All Things Must Pass']
       }
     }
   }
