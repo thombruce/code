@@ -1481,16 +1481,16 @@
   dependencies:
     mini-svg-data-uri "^1.2.3"
 
-"@thombruce/nuxt-taxonomies@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@thombruce/nuxt-taxonomies/-/nuxt-taxonomies-0.1.1.tgz#91966132f76f3a80ca49f87bf5d383db298c6dcf"
-  integrity sha512-tdbHmcPmsg0dK4f9o1Ve2S5V1XLARNZvldkUwHXJLufzzp4TCsgrY+7h9G6CiaAwD8Mtv6FSdgqIAiuCC1CjsA==
+"@thombruce/nuxt-taxonomies@^0.1.3":
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/@thombruce/nuxt-taxonomies/-/nuxt-taxonomies-0.1.3.tgz#e69ecfae991cc351be993e86203b2865bd3c6819"
+  integrity sha512-LJCdbwgAGLqbTGlzXjPRiVildYGzfVCKhsQfjxe3BwgtgOyU84/6uBe8Kat4ovDYf5IGoQ/BUkiw1ddM7lNVgw==
   dependencies:
     lodash "^4.17.21"
 
 "@thombruce/tnt@https://github.com/thombruce/tnt":
   version "0.1.0"
-  resolved "https://github.com/thombruce/tnt#9f5da72173401c6772edfbf118c42d854debd796"
+  resolved "https://github.com/thombruce/tnt#454675c556ca89c48ea7c646289a78ae5ddc9078"
   dependencies:
     "@fortawesome/free-solid-svg-icons" "^5.15.3"
     "@nuxtjs/color-mode" "^2.0.9"
