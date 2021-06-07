@@ -13,13 +13,13 @@ div
 
 <script>
 export default {
-  async asyncData({ $content, params, store }) {
+  async asyncData({ $content, $taxonomies, params }) {
     const slug = params.slug
 
     const article = await $content('blog', slug)
       .fetch()
       .catch(async () => {
-        const terms = await store.dispatch('taxonomies/all', { property: 'blog', taxonomy: slug })
+        const terms = await $taxonomies(slug, 'blog').all()
         return terms
       })
 

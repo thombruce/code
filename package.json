@@ -16,6 +16,7 @@
     "nuxt": "^2.15.3"
   },
   "devDependencies": {
+    "@thombruce/nuxt-taxonomies": "^0.1.1",
     "@thombruce/tnt": "https://github.com/thombruce/tnt"
   }
 }

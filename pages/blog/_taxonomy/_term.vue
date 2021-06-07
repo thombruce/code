@@ -15,10 +15,10 @@ article
 
 <script>
 export default {
-  async asyncData({ $content, store, params }) {
+  async asyncData({ $content, $taxonomies, params }) {
     const taxonomy = params.taxonomy
 
-    const term = await store.dispatch('taxonomies/find', { property: 'blog', taxonomy, slug: params.term })
+    const term = await $taxonomies(taxonomy, 'blog').find(params.term)
 
     const articles = await $content('blog')
       .where({ [taxonomy]: { $contains: term.title } })

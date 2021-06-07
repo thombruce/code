@@ -33,7 +33,8 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
-    '@thombruce/tnt'
+    '@thombruce/tnt',
+    '@thombruce/nuxt-taxonomies'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
