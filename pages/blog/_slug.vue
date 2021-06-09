@@ -30,7 +30,7 @@ export default {
       meta: [
         { hid: 'og:title', property: 'og:title', content: `${this.article.title} | Jameater` },
         { hid: 'og:type', property: 'og:type', content: 'article' },
-        { hid: 'og:url', property: 'og:url', content: `https://thombruce.com${this.$route.fullPath}` },
+        { hid: 'og:url', property: 'og:url', content: `https://jam.thombruce.com${this.$route.fullPath}` },
       ]
     }
   }
