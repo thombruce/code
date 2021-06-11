@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/authors", {data:[{_img:{}}],fetch:{"0":{slug:"authors",article:[{slug:"thom-bruce",title:"Thom Bruce"}]}},mutations:void 0});
