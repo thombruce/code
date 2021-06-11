@@ -21,7 +21,7 @@ container: text-center
 
 ## Fonts
 
-<a href='https://www.fontsquirrel.com/fonts/alegreya' class='font-poster'>Alegreya</a>
+<a href='https://www.fontsquirrel.com/fonts/alegreya' class='font-poster text-4xl'>Alegreya</a>
 <br/>
 by [Juan Pablo del Peral](https://twitter.com/juandelperal)
 
