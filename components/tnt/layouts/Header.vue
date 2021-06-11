@@ -34,7 +34,7 @@ export default {
 header {
   @apply flex flex-col justify-center py-5 px-4;
   & > span:first-of-type {
-    @apply block w-min m-auto text-2xl sm:text-3xl md:text-5xl lg:text-7xl text-primary font-poster;
+    @apply block w-min m-auto text-5xl sm:text-7xl md:text-8xl text-primary font-poster;
   }
   & > div {
     @apply flex justify-center;

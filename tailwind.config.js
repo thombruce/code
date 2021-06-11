@@ -26,7 +26,7 @@ module.exports = {
       },
       // To add fonts
       fontFamily: {
-        poster: ['All Things Must Pass']
+        poster: ['Alegreya']
       }
     }
   }

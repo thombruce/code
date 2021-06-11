@@ -21,9 +21,9 @@ container: text-center
 
 ## Fonts
 
-<a href='https://www.dafont.com/all-things-must-pass.font' class='font-poster'>ALL THINGS MUST PASS</a>
+<a href='https://www.fontsquirrel.com/fonts/alegreya' class='font-poster'>Alegreya</a>
 <br/>
-by [Imagex Fonts](http://www.imagex-fonts.com/)
+by [Juan Pablo del Peral](https://twitter.com/juandelperal)
 
 <br/>
 
