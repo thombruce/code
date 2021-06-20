@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/tags", {data:[{_img:{}}],fetch:{"0":{slug:"tags",article:[{slug:"java-script",title:"JavaScript"},{slug:"api",title:"API"},{slug:"markup",title:"Markup"}]}},mutations:void 0});
