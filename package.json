@@ -16,6 +16,9 @@
     "nuxt": "^2.15.3"
   },
   "devDependencies": {
-    "@thombruce/tnt": "https://github.com/thombruce/tnt"
+    "@thombruce/tnt": "https://github.com/thombruce/tnt",
+    "@thombruce/vue-fountain": "^0.2.4",
+    "@thombruce/vue-playfair": "^0.1.1",
+    "@thombruce/vue-timepiece": "^0.1.4"
   }
 }

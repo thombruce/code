@@ -4,6 +4,8 @@ description: 'A brief introduction to the Jamstack.'
 authors:
   - Thom Bruce
 createdAt: 2021-06-06T00:41:11Z
+categories:
+  - Jamstack
 tags:
   - JavaScript
   - API

@@ -48,7 +48,10 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
-    '@thombruce/tnt'
+    '@thombruce/tnt',
+    '@thombruce/vue-timepiece/nuxt',
+    '@thombruce/vue-fountain/nuxt',
+    '@thombruce/vue-playfair/nuxt'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
