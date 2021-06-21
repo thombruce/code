@@ -21,9 +21,9 @@ container: text-center
 
 ## Fonts
 
-<a href='https://www.fontsquirrel.com/fonts/alegreya' class='font-poster text-4xl'>Alegreya</a>
+<a href='https://www.fontsquirrel.com/fonts/ubuntu-mono' class='font-poster text-4xl'>Ubuntu Mono</a>
 <br/>
-by [Juan Pablo del Peral](https://twitter.com/juandelperal)
+by [Dalton Maag Ltd.](https://www.daltonmaag.com/)
 
 <br/>
 

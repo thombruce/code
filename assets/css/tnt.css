@@ -1,6 +1,6 @@
 @import '@thombruce/tnt';
 
 @font-face {
-  font-family: 'Alegreya';
-  src: url('~assets/fonts/Alegreya-Bold.otf') format('opentype');
+  font-family: 'Ubuntu Mono';
+  src: url('~assets/fonts/UbuntuMono-BI.ttf') format('truetype');
 }
