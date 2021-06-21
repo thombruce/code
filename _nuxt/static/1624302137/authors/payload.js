@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/authors", {data:[{slug:"authors",page:[{slug:"thom-bruce",title:"Thom Bruce"}],_img:{}}],fetch:{},mutations:void 0});
