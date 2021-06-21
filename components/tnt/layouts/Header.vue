@@ -1,7 +1,7 @@
 <template lang='pug'>
 header
   span.py-24
-    NuxtLink(to='/') JAMEATER
+    NuxtLink(to='/') UNDEFINED
   div
     nav
       ul

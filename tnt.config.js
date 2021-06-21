@@ -1,6 +1,6 @@
 export default {
-  title: 'Jameater',
-  description: 'My personal Jamstack blog.',
-  url: 'https://jam.thombruce.com',
+  title: 'Undefined',
+  description: 'My programming blog.',
+  url: 'https://code.thombruce.com',
   image: '/strawberries.jpg'
 }

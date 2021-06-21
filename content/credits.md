@@ -1,6 +1,6 @@
 ---
 title: Credits
-description: 'Packages and media used by Jameater.'
+description: 'Packages and media used by Undefined.'
 createdAt: 2021-06-06T16:28:42Z
 container: text-center
 ---

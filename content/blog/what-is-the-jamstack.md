@@ -10,6 +10,8 @@ tags:
   - Markup
 ---
 
+_UPDATE: This post was originally written when I called this site Jameater and dedicated it to the Jamstack. I've since decided to broaden the subject material of this website to include all of my programming work, a lot of it but not all being Jamstack related._
+
 Greetings curious parties and welcome to Jameater. I'm Thom Bruce, the author of this here blog and an ever-greater-and-greater advocate of the Jamstack. But what is the Jamstack, what's a Jameater and why am I writing about this? Well...
 
 ## What is the Jamstack?

@@ -1,6 +1,6 @@
-# Jameater
+# Undefined
 
-My personal Jamstack blog.
+My programming blog.
 
 ## Build Setup
 
