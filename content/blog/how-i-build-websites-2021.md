@@ -195,6 +195,6 @@ In less than the time it took me to write those two paragraphs of wrapping up, m
 1. Created a site on Netlify from the `dist` branch of my GitHub repo
 2. Added a custom domain to my DNS records pointing at that site
 
-This took less than a minute. It'll take a little longer for the DNS to propagate and for Netlify to provision an SSL certificate, though this is typically pretty quick too. By the time anyone reads this, the site should be available at [screenplays.thombruce.com](https://screenplays.thombruce.com/).
+This took less than a minute. It'll take a little longer for the DNS to propagate and for Netlify to provision an SSL certificate, though this is typically pretty quick too. By the time anyone reads this, the site should be available at [ink.thombruce.com](https://ink.thombruce.com/).
 
 That's a basic blogging website done in under twenty minutes. The template has a minimalist kinda style which I still need to work on (I'm more developer than designer), and there are some other kinks to work out yet too, but that's... that's it. I have this process down to a tee. This is what proactive laziness looks like. 😅
