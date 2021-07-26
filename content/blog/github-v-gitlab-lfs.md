@@ -3,7 +3,7 @@ title: GitHub Vs. GitLab LFS
 description: 'My choice of a Git remote.'
 authors:
   - Thom Bruce
-createdAt: 2021-04-27T11:24:19Z
+date: 2021-04-27T11:24:19Z
 categories:
   - Jamstack
 series:

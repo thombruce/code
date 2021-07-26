@@ -3,7 +3,7 @@ title: How I Build My Websites?
 description: 'What goes into one of my static sites in 2021.'
 authors:
   - Thom Bruce
-createdAt: 2021-06-21T22:09:01Z
+date: 2021-06-21T22:09:01Z
 categories:
   - Jamstack
 tags:

@@ -3,7 +3,7 @@ title: Anatomy of a Blog Post
 description: 'In which I consider the attributes required to sort and associate posts in my blog content files.'
 authors:
   - Thom Bruce
-createdAt: 2021-04-19T10:15:19Z
+date: 2021-04-19T10:15:19Z
 categories:
   - Jamstack
 series:

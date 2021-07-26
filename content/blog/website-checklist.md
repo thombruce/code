@@ -3,7 +3,7 @@ title: Website Checklist
 description: 'My checklist for everything that ThomBruce.com needs or should have.'
 authors:
   - Thom Bruce
-createdAt: 2021-05-12T12:43:03Z
+date: 2021-05-12T12:43:03Z
 categories:
   - Jamstack
 series:

@@ -3,7 +3,7 @@ title: Charting it Out
 description: 'Adding charts to my Markdown documents'
 authors:
   - Thom Bruce
-createdAt: 2021-05-21T15:56:42Z
+date: 2021-05-21T15:56:42Z
 updatedAt: 2021-05-28T18:08:33Z
 categories:
   - Jamstack

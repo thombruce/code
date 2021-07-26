@@ -3,7 +3,7 @@ title: No Going Back
 description: 'On restarting my blog from scratch every few months, and not wanting to do that again.'
 authors:
   - Thom Bruce
-createdAt: 2021-04-19T08:15:10Z
+date: 2021-04-19T08:15:10Z
 categories:
   - Jamstack
 series:

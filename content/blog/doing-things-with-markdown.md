@@ -3,7 +3,7 @@ title: Doing Things with Markdown
 description: 'Exploring and extending Markdown''s capabilities'
 authors:
   - Thom Bruce
-createdAt: 2021-05-20T14:05:39Z
+date: 2021-05-20T14:05:39Z
 categories:
   - Jamstack
 series:

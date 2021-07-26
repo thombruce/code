@@ -3,7 +3,7 @@ title: My First Nuxt Module
 description: 'My first Vue plugin that integrates seamlessly as a Nuxt module.'
 authors:
   - Thom Bruce
-createdAt: 2021-05-23T01:06:56Z
+date: 2021-05-23T01:06:56Z
 categories:
   - Jamstack
 series:

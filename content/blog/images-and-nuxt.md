@@ -3,7 +3,7 @@ title: Images and Nuxt
 description: 'Adding image support to my Nuxt blog.'
 authors:
   - Thom Bruce
-createdAt: 2021-04-25T12:27:27Z
+date: 2021-04-25T12:27:27Z
 categories:
   - Jamstack
 series:
