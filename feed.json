@@ -6,7 +6,7 @@
             "url": "https://code.thombruce.com/blog/how-i-build-websites-2021",
             "title": "How I Build My Websites?",
             "summary": "What goes into one of my static sites in 2021.",
-            "image": "https://code.thombruce.comundefined",
+            "image": "https://code.thombruce.com/code.jpg",
             "date_modified": "2021-06-21T22:09:01.000Z"
         },
         {
@@ -14,7 +14,7 @@
             "url": "https://code.thombruce.com/blog/what-is-the-jamstack",
             "title": "What is the Jamstack?",
             "summary": "A brief introduction to the Jamstack.",
-            "image": "https://code.thombruce.comundefined",
+            "image": "https://code.thombruce.com/code.jpg",
             "date_modified": "2021-06-06T00:41:11.000Z"
         },
         {
@@ -22,7 +22,7 @@
             "url": "https://code.thombruce.com/blog/my-first-nuxt-module",
             "title": "My First Nuxt Module",
             "summary": "My first Vue plugin that integrates seamlessly as a Nuxt module.",
-            "image": "https://code.thombruce.comundefined",
+            "image": "https://code.thombruce.com/code.jpg",
             "date_modified": "2021-05-23T01:06:56.000Z"
         },
         {
@@ -30,7 +30,7 @@
             "url": "https://code.thombruce.com/blog/charting-it-out",
             "title": "Charting it Out",
             "summary": "Adding charts to my Markdown documents",
-            "image": "https://code.thombruce.comundefined",
+            "image": "https://code.thombruce.com/code.jpg",
             "date_modified": "2021-05-21T15:56:42.000Z"
         },
         {
@@ -38,7 +38,7 @@
             "url": "https://code.thombruce.com/blog/doing-things-with-markdown",
             "title": "Doing Things with Markdown",
             "summary": "Exploring and extending Markdown's capabilities",
-            "image": "https://code.thombruce.comundefined",
+            "image": "https://code.thombruce.com/code.jpg",
             "date_modified": "2021-05-20T14:05:39.000Z"
         },
         {
@@ -46,7 +46,7 @@
             "url": "https://code.thombruce.com/blog/website-checklist",
             "title": "Website Checklist",
             "summary": "My checklist for everything that ThomBruce.com needs or should have.",
-            "image": "https://code.thombruce.comundefined",
+            "image": "https://code.thombruce.com/code.jpg",
             "date_modified": "2021-05-12T12:43:03.000Z"
         },
         {
@@ -54,7 +54,7 @@
             "url": "https://code.thombruce.com/blog/github-v-gitlab-lfs",
             "title": "GitHub Vs. GitLab LFS",
             "summary": "My choice of a Git remote.",
-            "image": "https://code.thombruce.comundefined",
+            "image": "https://code.thombruce.com/code.jpg",
             "date_modified": "2021-04-27T11:24:19.000Z"
         },
         {
@@ -70,7 +70,7 @@
             "url": "https://code.thombruce.com/blog/anatomy-of-a-blog-post",
             "title": "Anatomy of a Blog Post",
             "summary": "In which I consider the attributes required to sort and associate posts in my blog content files.",
-            "image": "https://code.thombruce.comundefined",
+            "image": "https://code.thombruce.com/code.jpg",
             "date_modified": "2021-04-19T10:15:19.000Z"
         },
         {
@@ -78,7 +78,7 @@
             "url": "https://code.thombruce.com/blog/no-going-back",
             "title": "No Going Back",
             "summary": "On restarting my blog from scratch every few months, and not wanting to do that again.",
-            "image": "https://code.thombruce.comundefined",
+            "image": "https://code.thombruce.com/code.jpg",
             "date_modified": "2021-04-19T08:15:10.000Z"
         }
     ]
