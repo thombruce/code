@@ -1,5 +1,5 @@
 export default {
-  title: 'Undefined',
+  title: 'Code',
   description: 'My programming blog.',
   url: 'https://code.thombruce.com',
   image: '/code.jpg'

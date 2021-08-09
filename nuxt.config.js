@@ -19,7 +19,7 @@ export default {
     title: tnt.title,
     titleTemplate: `%s | ${tnt.title}`,
     htmlAttrs: {
-      'data-theme': 'undefined'
+      'data-theme': 'forest'
     },
     meta: [
       { charset: 'utf-8' },

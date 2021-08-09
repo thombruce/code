@@ -1,7 +1,7 @@
 <template lang='pug'>
 header
   span.py-24
-    NuxtLink(to='/') UNDEFINED
+    NuxtLink(to='/') CODE
   .navbar
     nav
       NuxtLink.btn.btn-ghost(v-for='(item, i) in items' :key='i' :to='item.to')

@@ -1,4 +1,4 @@
-# Undefined
+# Code by Thom
 
 My programming blog.
 
