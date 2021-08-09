@@ -1,6 +1,7 @@
 ---
 title: FlexMR
 description: 'Market research and insight platform.'
+date: 2016
 startedAt: 2016
 endedAt: 2018
 simpleIcons:

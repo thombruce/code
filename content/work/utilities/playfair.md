@@ -1,6 +1,7 @@
 ---
 title: Playfair
 description: 'A charts library for Vue.js'
+date: 2021
 simpleIcons:
   - slug: javascript
     color: '#F7DF1E'

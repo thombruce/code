@@ -1,6 +1,7 @@
 ---
 title: Timepiece
 description: 'Analog and digital clocks, timers and countdowns.'
+date: 2021
 simpleIcons:
   - slug: javascript
     color: '#F7DF1E'

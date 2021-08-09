@@ -1,6 +1,7 @@
 ---
 title: Fountain
 description: 'A JavaScript parser for the screenplay format Fountain.'
+date: 2021
 simpleIcons:
   - slug: javascript
     color: '#F7DF1E'

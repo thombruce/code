@@ -1,6 +1,7 @@
 ---
 title: Free as in Beer
 description: 'Curating free software and resources'
+date: 2021
 homepage: https://beer.thombruce.com/
 simpleIcons:
   - slug: jamstack

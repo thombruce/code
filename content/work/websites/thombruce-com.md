@@ -1,6 +1,7 @@
 ---
 title: ThomBruce.com
 description: 'The website you''re looking at.'
+date: 2021
 homepage: https://thombruce.com/
 simpleIcons:
   - slug: jamstack

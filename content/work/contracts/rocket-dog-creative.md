@@ -1,6 +1,7 @@
 ---
 title: Rocket Dog Creative
 description: 'Web development and hosting services.'
+date: 2014
 startedAt: 2014
 endedAt: 2015
 simpleIcons:

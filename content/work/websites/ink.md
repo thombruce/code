@@ -1,6 +1,7 @@
 ---
 title: Ink
 description: 'My writing website'
+date: 2021
 homepage: https://ink.thombruce.com/
 simpleIcons:
   - slug: jamstack

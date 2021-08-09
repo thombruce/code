@@ -1,6 +1,7 @@
 ---
 title: Imfuna
 description: 'Property inspection applications.'
+date: 2018
 startedAt: 2018
 endedAt: 2019
 simpleIcons:

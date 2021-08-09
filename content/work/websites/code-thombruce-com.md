@@ -2,6 +2,7 @@
 title: Code @ ThomBruce.com
 description: 'My programming website'
 homepage: https://code.thombruce.com/
+date: 2021
 simpleIcons:
   - slug: jamstack
     color: '#F0047F'

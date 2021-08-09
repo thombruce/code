@@ -1,6 +1,7 @@
 ---
 title: Popcorn
 description: 'A pop-culture blog'
+date: 2021
 homepage: https://popcorn.thombruce.com/
 simpleIcons:
   - slug: jamstack

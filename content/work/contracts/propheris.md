@@ -1,6 +1,7 @@
 ---
 title: Propheris
 description: 'Clinical research platforms for the public health sector.'
+date: 2019
 startedAt: 2019
 endedAt:
 simpleIcons:

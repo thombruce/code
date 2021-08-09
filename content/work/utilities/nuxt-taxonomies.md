@@ -1,6 +1,7 @@
 ---
 title: Nuxt Taxonomies
 description: 'Nuxt plugin adding support for automatic handling of taxonomies with Nuxt Content.'
+date: 2021
 simpleIcons:
   - slug: javascript
     color: '#F7DF1E'

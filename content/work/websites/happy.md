@@ -1,6 +1,7 @@
 ---
 title: Happy
 description: 'My philosophy and well-being blog'
+date: 2021
 homepage: https://happy.thombruce.com/
 simpleIcons:
   - slug: jamstack

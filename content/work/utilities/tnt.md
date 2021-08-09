@@ -1,6 +1,7 @@
 ---
 title: TNT
 description: 'A dynamite Nuxt.js module!'
+date: 2021
 simpleIcons:
   - slug: javascript
     color: '#F7DF1E'
