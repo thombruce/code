@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1628515537",layout:"default",error:a,serverRendered:true,routePath:b,config:{_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"ee9239da"}},_img:{"/_ipx/code.jpg?s=200_200":"\u002F_nuxt\u002Fimage\u002Fa0da87.jpg"}}}(null,"\u002F"));
