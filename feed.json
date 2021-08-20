@@ -2,6 +2,14 @@
     "version": "https://jsonfeed.org/version/1",
     "items": [
         {
+            "id": "https://code.thombruce.com/blog/planned-projects-and-works-in-progress",
+            "url": "https://code.thombruce.com/blog/planned-projects-and-works-in-progress",
+            "title": "Planned Projects and Works In Progress",
+            "summary": "Making a note here of all of the projects I want to start or continue working on.",
+            "image": "https://code.thombruce.com/code.jpg",
+            "date_modified": "2021-08-20T18:15:52.000Z"
+        },
+        {
             "id": "https://code.thombruce.com/blog/how-i-build-websites-2021",
             "url": "https://code.thombruce.com/blog/how-i-build-websites-2021",
             "title": "How I Build My Websites?",
