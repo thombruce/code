@@ -2,6 +2,14 @@
     "version": "https://jsonfeed.org/version/1",
     "items": [
         {
+            "id": "https://code.thombruce.com/blog/the-perfect-open-source-web-architecture",
+            "url": "https://code.thombruce.com/blog/the-perfect-open-source-web-architecture",
+            "title": "In Consideration of the Perfect Open Source Architecture for Web-based Apps",
+            "summary": "Open source software should be free for all, easy to develop and easy to deploy",
+            "image": "https://code.thombruce.com/code.jpg",
+            "date_modified": "2021-08-21T14:51:08.000Z"
+        },
+        {
             "id": "https://code.thombruce.com/blog/planned-projects-and-works-in-progress",
             "url": "https://code.thombruce.com/blog/planned-projects-and-works-in-progress",
             "title": "Planned Projects and Works In Progress",
