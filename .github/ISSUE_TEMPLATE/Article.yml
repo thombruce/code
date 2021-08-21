@@ -2,7 +2,7 @@
 # More details at https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms
 name: Article Submission
 description: Contribute an article to the Code blog
-title: "[Title]: "
+title: "[Article]: Your Title Here"
 labels: []
 assignees:
   - thombruce
