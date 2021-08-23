@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/categories", {data:[{slug:"categories",page:[{slug:"jamstack",title:"Jamstack",path:"\u002Fcategories\u002Fjamstack"}],_img:{}}],fetch:{},mutations:void 0});
