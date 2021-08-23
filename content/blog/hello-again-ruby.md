@@ -5,7 +5,9 @@ authors:
   - Thom Bruce
 date:
 categories:
+  - Journal
 series:
+  - My Process
 tags:
 draft: true
 ---

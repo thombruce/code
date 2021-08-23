@@ -5,7 +5,9 @@ authors:
   - Thom Bruce
 date: 2021-08-21T14:51:08Z
 categories:
+  - Journal
 series:
+  - My Process
 tags:
 ---
 
