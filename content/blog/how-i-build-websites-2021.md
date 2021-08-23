@@ -59,14 +59,14 @@ _I should delete or replace some stuff in the static directory too, but this is 
 Next, I'll add my own package, TNT (it doesn't really stand for anything but is derived from the idea that it's _Thom's Nuxt Template_):
 
 ```sh
-yarn add https://github.com/thombruce/tnt --dev
+yarn add https://github.com/thombruce/nuxt-tnt --dev
 ```
 
 And I'll install the module by registering it as a buildModule in nuxt.config.js:
 
 ```js[nuxt.config.js]
 buildModules: [
-  '@thombruce/tnt'
+  '@thombruce/nuxt-tnt'
 ],
 ```
 
@@ -96,7 +96,7 @@ yarn add @thombruce/vue-fountain --dev
 
 ```js[nuxt.config.js]
 buildModules: [
-  '@thombruce/tnt',
+  '@thombruce/nuxt-tnt',
   '@thombruce/vue-fountain/nuxt'
 ],
 ```
