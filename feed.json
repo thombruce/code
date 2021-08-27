@@ -2,6 +2,14 @@
     "version": "https://jsonfeed.org/version/1",
     "items": [
         {
+            "id": "https://code.thombruce.com/blog/reworking-tnt-without-nuxt",
+            "url": "https://code.thombruce.com/blog/reworking-tnt-without-nuxt",
+            "title": "Reworking TNT: Thom's Nuxt Template without Nuxt",
+            "summary": "Reconfiguring my Nuxt template module so that it also works with Vue.js",
+            "image": "https://code.thombruce.com/code.jpg",
+            "date_modified": "2021-08-26T22:36:35.000Z"
+        },
+        {
             "id": "https://code.thombruce.com/blog/the-perfect-open-source-web-architecture",
             "url": "https://code.thombruce.com/blog/the-perfect-open-source-web-architecture",
             "title": "In Consideration of the Perfect Open Source Architecture for Web-based Apps",
