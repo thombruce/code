@@ -1,5 +1,5 @@
 ---
-title: 'Reworking TNT: Thom's Nuxt Template without Nuxt'
+title: "Reworking TNT: Thom's Nuxt Template without Nuxt"
 description: 'Reconfiguring my Nuxt template module so that it also works with Vue.js'
 authors:
   - Thom Bruce
