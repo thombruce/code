@@ -2,6 +2,14 @@
     "version": "https://jsonfeed.org/version/1",
     "items": [
         {
+            "id": "https://code.thombruce.com/blog/reworking-tnt-vue-meta",
+            "url": "https://code.thombruce.com/blog/reworking-tnt-vue-meta",
+            "title": "Reworking TNT: Vue Meta",
+            "summary": "Adding Vue Meta to my TNT Vue.js plugin",
+            "image": "https://code.thombruce.com/code.jpg",
+            "date_modified": "2021-08-28T00:59:19.000Z"
+        },
+        {
             "id": "https://code.thombruce.com/blog/reworking-tnt-without-nuxt",
             "url": "https://code.thombruce.com/blog/reworking-tnt-without-nuxt",
             "title": "Reworking TNT: Thom's Nuxt Template without Nuxt",
