@@ -2,6 +2,14 @@
     "version": "https://jsonfeed.org/version/1",
     "items": [
         {
+            "id": "https://code.thombruce.com/blog/reworking-tnt-vue-plugin-part-1",
+            "url": "https://code.thombruce.com/blog/reworking-tnt-vue-plugin-part-1",
+            "title": "Reworking TNT: Creating a Vue Plugin - Part 1",
+            "summary": "Moving Vue Meta and Tailwind CSS into my TNT Vue plugin",
+            "image": "https://code.thombruce.com/code.jpg",
+            "date_modified": "2021-08-29T15:18:52.000Z"
+        },
+        {
             "id": "https://code.thombruce.com/blog/reworking-tnt-vue-meta",
             "url": "https://code.thombruce.com/blog/reworking-tnt-vue-meta",
             "title": "Reworking TNT: Vue Meta",
