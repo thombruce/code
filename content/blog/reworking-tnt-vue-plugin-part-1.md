@@ -1,9 +1,9 @@
 ---
 title: "Reworking TNT: Creating a Vue Plugin - Part 1"
-description: ''
+description: 'Moving Vue Meta and Tailwind CSS into my TNT Vue plugin'
 authors:
   - Thom Bruce
-date:
+date: 2021-08-29T15:18:52Z
 categories:
   - Journal
 series:
@@ -13,7 +13,6 @@ tags:
   - NuxtJS
   - TNT
   - Dynamite
-draft: true
 ---
 
 [When we left off](reworking-tnt-vue-meta) I had added the dependency for Vue Meta to TNT and had installed and configured it in Dynamite UI. This was a problem, as preferably TNT would install its own dependencies without any extra configuration being required. So that's what we'll do today, and in doing so we will make TNT a sort-of "proper" Vue plugin. Let's look at how Vue Meta is initialised as an example:
