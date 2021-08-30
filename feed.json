@@ -2,6 +2,14 @@
     "version": "https://jsonfeed.org/version/1",
     "items": [
         {
+            "id": "https://code.thombruce.com/blog/reworking-tnt-vue-plugin-part-2",
+            "url": "https://code.thombruce.com/blog/reworking-tnt-vue-plugin-part-2",
+            "title": "Reworking TNT: Creating a Vue Plugin - Part 2",
+            "summary": "Working through Webpack and other bundler conflicts and dependencies",
+            "image": "https://code.thombruce.com/code.jpg",
+            "date_modified": "2021-08-30T17:42:29.000Z"
+        },
+        {
             "id": "https://code.thombruce.com/blog/reworking-tnt-vue-plugin-part-1",
             "url": "https://code.thombruce.com/blog/reworking-tnt-vue-plugin-part-1",
             "title": "Reworking TNT: Creating a Vue Plugin - Part 1",
