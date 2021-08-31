@@ -2,6 +2,14 @@
     "version": "https://jsonfeed.org/version/1",
     "items": [
         {
+            "id": "https://code.thombruce.com/blog/reworking-tnt-vue-cli",
+            "url": "https://code.thombruce.com/blog/reworking-tnt-vue-cli",
+            "title": "Reworking TNT: Creating a Vue CLI Plugin",
+            "summary": "Installing dependencies, loaders and configurations with a Vue CLI Plugin",
+            "image": "https://code.thombruce.com/code.jpg",
+            "date_modified": "2021-08-31T04:58:30.000Z"
+        },
+        {
             "id": "https://code.thombruce.com/blog/reworking-tnt-vue-plugin-part-2",
             "url": "https://code.thombruce.com/blog/reworking-tnt-vue-plugin-part-2",
             "title": "Reworking TNT: Creating a Vue Plugin - Part 2",
