@@ -2,6 +2,14 @@
     "version": "https://jsonfeed.org/version/1",
     "items": [
         {
+            "id": "https://code.thombruce.com/blog/reworking-tnt-bundling",
+            "url": "https://code.thombruce.com/blog/reworking-tnt-bundling",
+            "title": "Reworking TNT: Addendum - Bundling the Plugin",
+            "summary": "Using Vue CLI to bundle my Vue plugin as a JavaScript module",
+            "image": "https://code.thombruce.com/code.jpg",
+            "date_modified": "2021-09-02T22:48:00.000Z"
+        },
+        {
             "id": "https://code.thombruce.com/blog/reworking-tnt-vue-cli",
             "url": "https://code.thombruce.com/blog/reworking-tnt-vue-cli",
             "title": "Reworking TNT: Creating a Vue CLI Plugin",
