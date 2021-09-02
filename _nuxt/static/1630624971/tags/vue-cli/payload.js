@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tags/vue-cli", {data:[{term:{slug:"vue-cli",title:"Vue CLI",path:"\u002Ftags\u002Fvue-cli"},articles:[],_img:{}}],fetch:{},mutations:void 0});
