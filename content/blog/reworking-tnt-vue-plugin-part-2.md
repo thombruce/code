@@ -8,6 +8,7 @@ categories:
   - Journal
 series:
   - My Process
+  - Reworking TNT
 tags:
   - Vue.js
   - NuxtJS
