@@ -2,6 +2,14 @@
     "version": "https://jsonfeed.org/version/1",
     "items": [
         {
+            "id": "https://code.thombruce.com/blog/monorepo-dependencies-yarn-workspaces-lerna",
+            "url": "https://code.thombruce.com/blog/monorepo-dependencies-yarn-workspaces-lerna",
+            "title": "Managing Monorepo Dependencies with Yarn Workspaces and Lerna",
+            "summary": "Configuring my monorepo for easier development with Yarn Workspaces and Lerna",
+            "image": "https://code.thombruce.com/code.jpg",
+            "date_modified": "2021-09-06T20:36:44.000Z"
+        },
+        {
             "id": "https://code.thombruce.com/blog/tnt-monorepo",
             "url": "https://code.thombruce.com/blog/tnt-monorepo",
             "title": "Creating a Monorepo for my TNT Packages",
