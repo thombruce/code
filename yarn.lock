@@ -1513,10 +1513,10 @@
   dependencies:
     lodash "^4.17.21"
 
-"@thombruce/nuxt-tnt@^0.1.16":
-  version "0.1.16"
-  resolved "https://registry.yarnpkg.com/@thombruce/nuxt-tnt/-/nuxt-tnt-0.1.16.tgz#4e5cf4084daa53b4a156fd219f17ce9f1036ade9"
-  integrity sha512-qUHFNQavNaWwg/GdjzS5UkM62RhmNw61N8KHy/EgMmoZ6S4prd7cQu57wMa2Y2Jo7+TQ3CUArh4nUi862bWAjw==
+"@thombruce/nuxt-tnt@^0.1.17":
+  version "0.1.17"
+  resolved "https://registry.yarnpkg.com/@thombruce/nuxt-tnt/-/nuxt-tnt-0.1.17.tgz#d9d6694385cb36d4150c86001a58a63a6f286f29"
+  integrity sha512-47Nkpu6fxx8EBDvKyu5WvWJ5OgvRnS8sJ0cLdn1M5gKAX7hiIQqS5xabwyri296LahLrLVBZkheHqmJcUilHDg==
   dependencies:
     "@nuxt/image" "^0.5.0"
     "@nuxtjs/tailwindcss" "^4.1.3"
