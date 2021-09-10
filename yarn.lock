@@ -1513,22 +1513,22 @@
   dependencies:
     lodash "^4.17.21"
 
-"@thombruce/nuxt-tnt@^0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@thombruce/nuxt-tnt/-/nuxt-tnt-0.1.17.tgz#d9d6694385cb36d4150c86001a58a63a6f286f29"
-  integrity sha512-47Nkpu6fxx8EBDvKyu5WvWJ5OgvRnS8sJ0cLdn1M5gKAX7hiIQqS5xabwyri296LahLrLVBZkheHqmJcUilHDg==
+"@thombruce/nuxt-tnt@^0.1.19":
+  version "0.1.19"
+  resolved "https://registry.yarnpkg.com/@thombruce/nuxt-tnt/-/nuxt-tnt-0.1.19.tgz#b2b91b5fb6f638edd59f9f97307027aa74134da2"
+  integrity sha512-MV8IMthpXTkRbIrv3wJ/gic7CM9/gM1Y0PGm4ltvv3lBzTDcISg7IwY6+eam4d2/JvE7gY4wJDnbbqt5P2XHYQ==
   dependencies:
     "@nuxt/image" "^0.5.0"
     "@nuxtjs/tailwindcss" "^4.1.3"
     "@thombruce/nuxt-taxonomies" "^0.2.0"
-    "@thombruce/tnt" "^0.1.10"
+    "@thombruce/tnt" "^0.1.19"
     pug-plain-loader "^1.1.0"
     simple-icons "^5.10.0"
 
-"@thombruce/tnt@^0.1.10":
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/@thombruce/tnt/-/tnt-0.1.10.tgz#1cb1ddde7ca86c9f9f518999cfbf8fb5eb0731bc"
-  integrity sha512-34S1jQsMuaJ/PCMENl5CVDLWOTO4K4V27VesYo8Ny0tqJjuyLoCUznKEXxAmx0OJPi2kGNBpNOaAQLPaInyj6w==
+"@thombruce/tnt@^0.1.19":
+  version "0.1.19"
+  resolved "https://registry.yarnpkg.com/@thombruce/tnt/-/tnt-0.1.19.tgz#f49121b1db3c501c4bb5ceb7f61e03e0e7a8592f"
+  integrity sha512-G5OPXX9WXl5yz99q+zbdiCYgLBMVM5kj97HQooQqkTzaKvJbVE2jF+raywRHma/tUlcRvefXS8vK0ulHl6KKCQ==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.36"
     "@fortawesome/free-solid-svg-icons" "^5.15.4"
