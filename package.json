@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@thombruce/nuxt-tnt": "^0.1.17",
-    "@thombruce/vue-fountain": "^0.2.4",
+    "@thombruce/vue-fountain": "^1.5.3",
     "@thombruce/vue-playfair": "^0.1.1",
     "@thombruce/vue-timepiece": "^0.1.4"
   }
