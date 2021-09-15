@@ -1501,10 +1501,10 @@
   dependencies:
     mini-svg-data-uri "^1.2.3"
 
-"@thombruce/fountain-js@^1.5.1":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@thombruce/fountain-js/-/fountain-js-1.5.2.tgz#feb71f6226f40d79eb3799c38cea8175140509c7"
-  integrity sha512-/u0wIx/ajqBYromQkKrmM2tv2XqGxXaqhcll3RcP+LhvbUuzWyeAfYQMtK9uAQxucZ6uO5hW6rBLHGaD6RnjsQ==
+"@thombruce/fountain-js@^1.5.3":
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/@thombruce/fountain-js/-/fountain-js-1.5.3.tgz#c8573d3e17a60b6801d2217d7625bc71c88d811e"
+  integrity sha512-ihf0nqFxAWI+poRuh9M76DR0KySKyisDCf8IsegpYK/BH+7YTwvCAYaddtXGoLXsm57Z8nicl56iqXyNUc6/Pw==
 
 "@thombruce/nuxt-taxonomies@^0.2.0":
   version "0.2.0"
@@ -1546,12 +1546,12 @@
     vue "^2.6.14"
     vue-meta "^2.4.0"
 
-"@thombruce/vue-fountain@^0.2.4":
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/@thombruce/vue-fountain/-/vue-fountain-0.2.4.tgz#0af36010685a00661e41daca6385d872ef5418c1"
-  integrity sha512-brVa9ToJ3eEPR7d2Xf0W+AHjCFFGdsgOcTNwcUsEnEU8vXp6rKw5tyF6A6kM+wQOi3CDLEi3bsaiywHUlGg1IQ==
+"@thombruce/vue-fountain@^1.5.3":
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/@thombruce/vue-fountain/-/vue-fountain-1.5.3.tgz#9249da54ac3c86ed607a77bbc9648f7e0c7f6129"
+  integrity sha512-MxcIM9Who3vaAgOAuoPoCjbqnfnX0oMIotycYHq5BkmK6KXUtZNSci9Nkx5mC7qt7/gg6ZmXjN7f2sYYDsRlHQ==
   dependencies:
-    "@thombruce/fountain-js" "^1.5.1"
+    "@thombruce/fountain-js" "^1.5.3"
 
 "@thombruce/vue-playfair@^0.1.1":
   version "0.1.1"
