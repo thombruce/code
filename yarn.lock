@@ -1501,6 +1501,16 @@
   dependencies:
     mini-svg-data-uri "^1.2.3"
 
+"@tailwindcss/typography@^0.4.1":
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@tailwindcss/typography/-/typography-0.4.1.tgz#51ddbceea6a0ee9902c649dbe58871c81a831212"
+  integrity sha512-ovPPLUhs7zAIJfr0y1dbGlyCuPhpuv/jpBoFgqAc658DWGGrOBWBMpAWLw2KlzbNeVk4YBJMzue1ekvIbdw6XA==
+  dependencies:
+    lodash.castarray "^4.4.0"
+    lodash.isplainobject "^4.0.6"
+    lodash.merge "^4.6.2"
+    lodash.uniq "^4.5.0"
+
 "@thombruce/fountain-js@^1.5.1":
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/@thombruce/fountain-js/-/fountain-js-1.5.2.tgz#feb71f6226f40d79eb3799c38cea8175140509c7"
@@ -1513,27 +1523,28 @@
   dependencies:
     lodash "^4.17.21"
 
-"@thombruce/nuxt-tnt@^0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@thombruce/nuxt-tnt/-/nuxt-tnt-0.1.17.tgz#d9d6694385cb36d4150c86001a58a63a6f286f29"
-  integrity sha512-47Nkpu6fxx8EBDvKyu5WvWJ5OgvRnS8sJ0cLdn1M5gKAX7hiIQqS5xabwyri296LahLrLVBZkheHqmJcUilHDg==
+"@thombruce/nuxt-tnt@^0.1.29":
+  version "0.1.29"
+  resolved "https://registry.yarnpkg.com/@thombruce/nuxt-tnt/-/nuxt-tnt-0.1.29.tgz#48a62ff27dfe707d4f9a6906598bd0008c397555"
+  integrity sha512-wB9mDzhEszh8wvT0iZBoz63uKlwY9dG4LwfQDVHINPuYj8Xbr9RwnhbTVnsKLTacMBUrAhYJKRXD8GvL/Fz3/A==
   dependencies:
     "@nuxt/image" "^0.5.0"
     "@nuxtjs/tailwindcss" "^4.1.3"
     "@thombruce/nuxt-taxonomies" "^0.2.0"
-    "@thombruce/tnt" "^0.1.10"
+    "@thombruce/tnt" "^0.1.29"
     pug-plain-loader "^1.1.0"
     simple-icons "^5.10.0"
 
-"@thombruce/tnt@^0.1.10":
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/@thombruce/tnt/-/tnt-0.1.10.tgz#1cb1ddde7ca86c9f9f518999cfbf8fb5eb0731bc"
-  integrity sha512-34S1jQsMuaJ/PCMENl5CVDLWOTO4K4V27VesYo8Ny0tqJjuyLoCUznKEXxAmx0OJPi2kGNBpNOaAQLPaInyj6w==
+"@thombruce/tnt@^0.1.29":
+  version "0.1.29"
+  resolved "https://registry.yarnpkg.com/@thombruce/tnt/-/tnt-0.1.29.tgz#f2772f19b31462bcc88acb4329d67054a93ab25a"
+  integrity sha512-QxYCQLTQKVqANg5ZzF1onJXPKSeHIw+8DZ858EKxF3PtZ8U6+Eki4kaoBNqVNq7/Scg+Y4+Dy+4tb6XjMB1/dA==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.36"
     "@fortawesome/free-solid-svg-icons" "^5.15.4"
     "@fortawesome/vue-fontawesome" "^2.0.2"
     "@tailwindcss/forms" "^0.3.3"
+    "@tailwindcss/typography" "^0.4.1"
     autoprefixer "^9"
     core-js "^3.17.1"
     daisyui "^1.13.2"
@@ -6174,10 +6185,20 @@ lodash._reinterpolate@^3.0.0:
   resolved "https://registry.yarnpkg.com/lodash._reinterpolate/-/lodash._reinterpolate-3.0.0.tgz#0ccf2d89166af03b3663c796538b75ac6e114d9d"
   integrity sha1-DM8tiRZq8Ds2Y8eWU4t1rG4RTZ0=
 
+lodash.castarray@^4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/lodash.castarray/-/lodash.castarray-4.4.0.tgz#c02513515e309daddd4c24c60cfddcf5976d9115"
+  integrity sha1-wCUTUV4wna3dTCTGDP3c9ZdtkRU=
+
 lodash.debounce@^4.0.8:
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
   integrity sha1-gteb/zCmfEAF/9XiUVMArZyk168=
+
+lodash.isplainobject@^4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/lodash.isplainobject/-/lodash.isplainobject-4.0.6.tgz#7c526a52d89b45c45cc690b88163be0497f550cb"
+  integrity sha1-fFJqUtibRcRcxpC4gWO+BJf1UMs=
 
 lodash.kebabcase@^4.1.1:
   version "4.1.1"
@@ -6188,6 +6209,11 @@ lodash.memoize@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/lodash.memoize/-/lodash.memoize-4.1.2.tgz#bcc6c49a42a2840ed997f323eada5ecd182e0bfe"
   integrity sha1-vMbEmkKihA7Zl/Mj6tpezRguC/4=
+
+lodash.merge@^4.6.2:
+  version "4.6.2"
+  resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
+  integrity sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==
 
 lodash.template@^4.5.0:
   version "4.5.0"
